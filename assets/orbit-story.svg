@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" fill="none">
+ <defs>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(295 80 -110 406 398 246)" gradientUnits="userSpaceOnUse"><stop stop-color="#3d5961"/><stop offset="1" stop-color="#101b27" stop-opacity="0"/></radialGradient>
+  <linearGradient id="orbit" x1="143" x2="661" y1="91" y2="414" gradientUnits="userSpaceOnUse"><stop stop-color="#c8f36a"/><stop offset=".56" stop-color="#90ccc0"/><stop offset="1" stop-color="#f28363"/></linearGradient>
+ </defs>
+ <path fill="url(#glow)" d="M0 0h760v520H0z"/>
+ <g opacity=".25" stroke="#dbe6db"><path d="M52 83h656M52 112h656M52 141h656M52 170h656M52 199h656M52 228h656M52 257h656M52 286h656M52 315h656M52 344h656M52 373h656M52 402h656M52 431h656"/><path d="M83 52v416M112 52v416M141 52v416M170 52v416M199 52v416M228 52v416M257 52v416M286 52v416M315 52v416M344 52v416M373 52v416M402 52v416M431 52v416M460 52v416M489 52v416M518 52v416M547 52v416M576 52v416M605 52v416M634 52v416M663 52v416"/></g>
+ <ellipse cx="379" cy="263" stroke="url(#orbit)" stroke-width="2" transform="rotate(-27 379 263)" rx="251" ry="91"/>
+ <ellipse cx="379" cy="263" stroke="#eaf1df" stroke-opacity=".58" stroke-width="1.4" transform="rotate(29 379 263)" rx="217" ry="117"/>
+ <ellipse cx="379" cy="263" stroke="#f28363" stroke-opacity=".8" stroke-width="1.1" transform="rotate(69 379 263)" rx="182" ry="72"/>
+ <circle cx="380" cy="263" r="46" fill="#c8f36a" fill-opacity=".09" stroke="#c8f36a" stroke-opacity=".78"/><circle cx="380" cy="263" r="8" fill="#c8f36a"/>
+ <circle cx="588" cy="192" r="6" fill="#f28363"/><circle cx="290" cy="151" r="5" fill="#91cdc0"/><circle cx="304" cy="327" r="4" fill="#f4f0e7"/>
+ <path d="M380 216v-56m0 206v-56m-46-47h-58m208 0h-58" stroke="#c8f36a" stroke-opacity=".75"/>
+ <path d="M115 455h126" stroke="#f28363" stroke-width="2"/>
+ <text x="115" y="444" fill="#d8e2d8" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">COMPLEXITY / CLARITY</text>
+ <text x="557" y="92" fill="#d8e2d8" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">01—02—03</text>
+</svg>
